@@ -137,7 +137,7 @@ def decode_prediction(pred):
 # =============================
 # STREAMLIT UI
 # =============================
-st.title("Code for Africa_Yohannes A. – Amharic ASR Demo 🎙️")
+st.title("Code for Africa_By Yohannes A. – Amharic ASR Demo 🎙️")
 
 audio_file = st.file_uploader(
     "Upload or record Amharic speech (.wav, 16kHz)",
